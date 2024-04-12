@@ -46,6 +46,10 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/RPA-1071D3?style=flat-square&logoColor=white"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+</p>
+
 
 ### 🌱 Study & Looking
 
@@ -59,3 +63,5 @@
   <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
 </p>
 
+[//]: # (https://simpleicons.org/)
+[//]: # (https://shields.io/)
