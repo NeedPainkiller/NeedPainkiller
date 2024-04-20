@@ -76,5 +76,29 @@
   <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
 </p>
 
+
+### 🎛️ Self Hosting
+<p>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netdata-00AB44?style=flat-square&logo=netdata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pi.Alert-0D728B?style=flat-square&logo=linuxserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AdGuard Home-68BC71?style=flat-square&logo=adguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Uptime Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white"/>
+<p>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Watchtower-416271?style=flat-square&logo=watchtower&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Ghost-15171A?style=flat-square&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Healthchecks-0058B5?style=flat-square&logo=linuxserver&logoColor=white"/>
+</p>
+  
+
+
 [//]: # (https://simpleicons.org/)
 [//]: # (https://shields.io/)
