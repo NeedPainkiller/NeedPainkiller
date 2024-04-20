@@ -13,7 +13,7 @@
 #### Language
 
 <p>
-  <img src="https://img.shields.io/badge/Java-67493A?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-67493A?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -69,6 +69,7 @@
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
