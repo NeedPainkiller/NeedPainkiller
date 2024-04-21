@@ -52,15 +52,15 @@
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/RPA-1071D3?style=flat-square&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Intellij IDEA Ultimate-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 </p>
 
@@ -69,13 +69,13 @@
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/> 
+<!--   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/>  -->
   <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=linux&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=linux&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
 </p>
 
