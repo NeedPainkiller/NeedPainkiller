@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/RPA-1071D3?style=flat-square&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij IDEA Ultimate-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 </p>
