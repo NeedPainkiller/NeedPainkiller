@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
 </p>
 
