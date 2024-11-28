@@ -90,3 +90,6 @@
 
 [//]: # (https://simpleicons.org/)
 [//]: # (https://shields.io/)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NeedPainkiller&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeedPainkiller&layout=compact&theme=github_dark)
